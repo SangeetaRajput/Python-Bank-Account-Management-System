@@ -39,10 +39,4 @@ View transaction history
 Exit the program
 Use conditional statements and loops to ensure smooth navigation between different menu options.
 
-6. Error Handling:
-Implement input validation (e.g., ensure deposit and withdrawal amounts are positive).
-Handle potential errors, such as attempting to withdraw more money than available in the account or transferring funds between non-existent accounts.
 
-7. Bonus (Optional):
-Implement login functionality for multiple users, requiring a username and password to access each account.
-Use advanced Python features, such as lambda functions, for quick calculations or specific operations within the program.
