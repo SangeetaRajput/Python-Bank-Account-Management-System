@@ -7,33 +7,33 @@ This project implements a command-line-based Bank Account Management System usin
 
 1. Account Management
 
-  Create new accounts with the following details:
+   Create new accounts with the following details:
 
-  PAN Card Number (unique for each account).
+   PAN Card Number (unique for each account).
 
-  Account Holder Name.
+   Account Holder Name.
 
-  Account Type: Savings or Current.
+   Account Type: Savings or Current.
 
-  Initial Deposit Amount.
+   Initial Deposit Amount.
 
-  Auto-Generated Account Number (unique 14-digit number).
+   Auto-Generated Account Number (unique 14-digit number).
 
 2. View Account Details
 
-  Retrieve and display account information using:
+   Retrieve and display account information using:
 
-  PAN Card Number.
+   PAN Card Number.
 
-  Displayed Information:
+   Displayed Information:
 
-  Account Holder’s Name
+   Account Holder’s Name
 
-  Account Type (Savings/Current)
+   Account Type (Savings/Current)
 
-  Account Number
+   Account Number
 
-  Total Balance
+   Total Balance
 
 3. Transactions
 
