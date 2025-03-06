@@ -71,8 +71,8 @@ Python: Core programming language.
 
 Modules:
    
-    &#8226; random: For generating credentials and account numbers.
+   &#8226; random: For generating credentials and account numbers.
    
-    &#8226; datetime: For transaction timestamping.
+   &#8226; datetime: For transaction timestamping.
 
 
