@@ -66,9 +66,13 @@ This project implements a command-line-based Bank Account Management System usin
    Safely exits the program when the user chooses to end the session.
 
 # Technologies Used
+
 Python: Core programming language.
+
 Modules:
+   
     &#8226; random: For generating credentials and account numbers.
+   
     &#8226; datetime: For transaction timestamping.
 
 
